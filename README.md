@@ -59,7 +59,7 @@ Sigue estos sencillos pasos para poner en marcha ElectroFactura:
 Si tienes alguna duda, encuentras un error o quieres reportar una incidencia, no dudes en ponerte en contacto con el equipo de desarrollo.
 
 -   **Desarrolladora principal:** Andrea Vergara Becerra
--   ** ✦ Correo electrónico:** [averbec0709@g.educaand.es](mailto:averbec0709@g.educaand.es)
+-   **✦ Correo electrónico:** [averbec0709@g.educaand.es](mailto:averbec0709@g.educaand.es)
 
 ---
 
